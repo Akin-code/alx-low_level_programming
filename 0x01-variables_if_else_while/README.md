@@ -1,1 +1,1 @@
- Variable
+Variable Application
